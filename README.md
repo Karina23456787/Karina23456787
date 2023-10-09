@@ -14,9 +14,9 @@
 
 ### Check-lists
 - Applications:  
-[Electric Trains]()
+[Electric Trains](https://docs.google.com/spreadsheets/d/1QNpmKUyAh1fLocpqeX94kI_WdBOB_-YcMgqbQjyagIk/edit?usp=sharing)
 - Sites:
-[Monge]() 
+[Monge](https://docs.google.com/spreadsheets/d/1S5s7e-kUV7XK7Ala99q8zieJD3pOclpVfD-eESvVpUk/edit?usp=sharing) 
 
 
 ## Languages and Tools
@@ -38,5 +38,5 @@
 
 
 ## Follow Me
-[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](здесь ссылку на ваш Telegram)
-[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ](здесь ссылку на ваш Linkedin)
+[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/AKarina13)
+
