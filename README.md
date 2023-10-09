@@ -1,5 +1,5 @@
 # (имя репозитория)
-![Header] (![image](https://github.com/Karina23456787/Karina23456787/assets/144464502/a6f7bc0f-de1c-4379-b344-aeaacf9fb731)
+(![image](https://github.com/Karina23456787/Karina23456787/assets/144464502/a6f7bc0f-de1c-4379-b344-aeaacf9fb731)
 )
 
 ## About me
