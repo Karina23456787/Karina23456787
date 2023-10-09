@@ -11,7 +11,7 @@
 ## Portfolio 
 
 ### Bug reports 
-- Sites - [pwa-woo.wpmobilepack.com](https://ru.yougile.com/board/gmtqs0nmghs9), [testmonge.ru](https://ru.yougile.com/board/ulj763a135ea)
+- Sites - [pwa-woo.wpmobilepack.com](https://ru.yougile.com/board/gmtqs0nmghs9), [testmonge.ru](https://ru.yougile.com/board/ulj763a135ea),[reverent-agnesi-5dfdff.netlify.app](https://ru.yougile.com/board/tie6hf02d3t7),[leaky.ru/podbor-prichesok-onlajn](https://ru.yougile.com/board/hs5zjlhofv6p)
 - PC application - [BattleOfTheWildWest](https://ru.yougile.com/board/nv1pt1xx33sx)
 - Mobile application - [BaseDefence](https://ru.yougile.com/board/vnj0ou43o62j)
 
