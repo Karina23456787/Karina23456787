@@ -9,8 +9,9 @@
 ## Portfolio 
 
 ### Bug reports 
-- PC application - [Texas Massacre](), [AgeOfMystery](), [Chop chop]()
-- Mobile application - [Little Shooter](), [World Race]()
+- Sites - [pwa-woo.wpmobilepack.com](https://ru.yougile.com/board/gmtqs0nmghs9), [testmonge.ru](https://ru.yougile.com/board/ulj763a135ea)
+- PC application - [BattleOfTheWildWest](https://ru.yougile.com/board/nv1pt1xx33sx)
+- Mobile application - [BaseDefence](https://ru.yougile.com/board/vnj0ou43o62j)
 
 ### Check-lists
 - Applications - [Electric Trains](https://docs.google.com/spreadsheets/d/1QNpmKUyAh1fLocpqeX94kI_WdBOB_-YcMgqbQjyagIk/edit?usp=sharing)   
